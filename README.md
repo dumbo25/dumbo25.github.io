@@ -11,7 +11,7 @@ I'd like to use Apple's SwiftUI as the css. But I would need to write in Swift a
 * [uikit](https://developer.apple.com/documentation/uikit) is more or less deprecated in favor of SwiftUI
 
 So, I'll use [bootstrap](https://github.com/twbs/bootstrap) instead
-* Import raw github files from uikit, or use built in theme.
+* Import raw github files from bootstrap, [css](https://raw.githubusercontent.com/twbs/bootstrap/main/dist/css/bootstrap.css)
 
 ## Github Pages Setup
 * Create github account, or use the one you have
