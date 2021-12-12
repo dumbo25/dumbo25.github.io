@@ -7,7 +7,7 @@ Trying to figure out how to port [my Home Automation website](https://sites.goog
 * I can either try to make my Google Sites website as responsive as it allows, or
 * I can migrate the site to github pages
 
-I forked uikit to here. This was wrong thing to do. Best to just use raw github source from uikit.
+I forked uikit to here. This was wrong thing to do. Best to just use raw github source from uikit, or use built in theme.
 
 I'd like to use uikit as the css.
 
@@ -20,5 +20,8 @@ To see this site, open a browser and enter: https://dumbo25.github.io/
   * Keep in Dock
 * Create a repository called your-username.github.io. For me, it is dumbo25.github.io.
 * For the repository, click on settings icon and scroll down to Git Hub pages and follow the link
-  * xxx
-
+  * You should see something like:
+   * Your site is published at https://dumbo25.github.io/
+  * Select a theme. I chose Architect
+* Create a bew file called index.html
+*  
