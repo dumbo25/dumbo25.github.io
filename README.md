@@ -20,7 +20,8 @@ I'd like to use uikit as the css. Import raw github files from uikit, or use bui
 * For the repository, click on settings icon and scroll down to Git Hub pages and follow the link
   * You should see something like:
     * Your site is published at https://dumbo25.github.io/
-  * Select a theme. I chose Architect
+  * Select a theme: Settings, Pages, Theme Chooser
+    * I chose Architect
 * Wait a few minutes between commits to see the changes
   * To see this site, open a browser and enter: https://dumbo25.github.io/
 
