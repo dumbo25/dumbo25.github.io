@@ -16,9 +16,9 @@ To see this site, open a browser and enter: https://dumbo25.github.io/
 # Github Pages Setup
 * Create github account, or use the one you have
 * Download [GitHub for Mac](http://mac.github.com/)
- * Move to Applications
- * Keep in Dock
+  * Move to Applications
+  * Keep in Dock
 * Create a repository called your-username.github.io. For me, it is dumbo25.github.io.
 * For the repository, click on settings icon and scroll down to Git Hub pages and follow the link
- * xxx
+  * xxx
 
