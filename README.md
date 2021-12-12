@@ -12,3 +12,8 @@ I forked uikit to here. This was wrong thing to do. Best to just use raw github 
 I'd like to use uikit as the css.
 
 Open a browser and enter: https://dumbo25.github.io/
+
+# Github Pages Setup
+* Create github account, or use the one you have
+* Download [http://mac.github.com/](GitHub for Mac)
+* 
