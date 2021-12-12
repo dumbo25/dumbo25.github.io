@@ -23,5 +23,5 @@ To see this site, open a browser and enter: https://dumbo25.github.io/
   * You should see something like:
    * Your site is published at https://dumbo25.github.io/
   * Select a theme. I chose Architect
-* Create a bew file called index.html
-*  
+* Create a new file called index.html
+* Wait a few minutes between commits to see the changes
