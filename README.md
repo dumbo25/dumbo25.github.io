@@ -1,7 +1,6 @@
-# temp
+# dumbo25.github.io
 Home Automation Projects
 
-# dumbo25.github.io
 Draft
 
 Trying to figure out how to port my website https://sites.google.com/site/cartwrightraspberrypiprojects/home from Google Sites to github
