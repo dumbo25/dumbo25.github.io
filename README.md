@@ -24,6 +24,7 @@ I'd like to use uikit as the css. Import raw github files from uikit, or use bui
     * Initially, I chose Architect
     * However, [Front Matter](https://jekyllrb.com/docs/step-by-step/03-front-matter/) needs to be added to the site and the tags need to be edited. 
     * I prefer to just use the css provided by UIkit
+    * Delete Github Pages Theme by deleting this file, _config.yml, from the repository
 * Wait a few minutes between commits to see the changes
   * To see this site, open a browser and enter: https://dumbo25.github.io/
 
