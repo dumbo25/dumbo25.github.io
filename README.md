@@ -24,3 +24,5 @@ I'd like to use uikit as the css.
 * Create a new file called index.html
 * Wait a few minutes between commits to see the changes
   * To see this site, open a browser and enter: https://dumbo25.github.io/
+
+Reference: [Khan Academy](https://www.khanacademy.org/computing/computer-programming/html-css/web-development-tools/a/hosting-your-website-on-github)
