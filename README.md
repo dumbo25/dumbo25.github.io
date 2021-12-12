@@ -1,5 +1,5 @@
 # dumbo25.github.io
-Home Automation Projects
+## Home Automation Projects
 
 Draft
 
@@ -11,9 +11,7 @@ I forked uikit to here. This was wrong thing to do. Best to just use raw github 
 
 I'd like to use uikit as the css.
 
-To see this site, open a browser and enter: https://dumbo25.github.io/
-
-# Github Pages Setup
+## Github Pages Setup
 * Create github account, or use the one you have
 * Download [GitHub for Mac](http://mac.github.com/)
   * Move to Applications
@@ -21,7 +19,8 @@ To see this site, open a browser and enter: https://dumbo25.github.io/
 * Create a repository called your-username.github.io. For me, it is dumbo25.github.io.
 * For the repository, click on settings icon and scroll down to Git Hub pages and follow the link
   * You should see something like:
-   * Your site is published at https://dumbo25.github.io/
+    * Your site is published at https://dumbo25.github.io/
   * Select a theme. I chose Architect
 * Create a new file called index.html
 * Wait a few minutes between commits to see the changes
+  * To see this site, open a browser and enter: https://dumbo25.github.io/
