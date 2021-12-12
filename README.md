@@ -19,4 +19,6 @@ To see this site, open a browser and enter: https://dumbo25.github.io/
 ** Move to Applications
 ** Keep in Dock
 * Create a repository called your-username.github.io. For me, it is dumbo25.github.io.
-* For the repository, click on settings icon and ensure 
+* For the repository, click on settings icon and scroll down to Git Hub pages and follow the link
+** 
+
